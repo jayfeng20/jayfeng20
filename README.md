@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**jayfeng20/jayfeng20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h1 align="center">Hi 👋, I'm Jonathan (Yushen) Feng</h1>
 <h3 align="center">A passionate backend developer and data engineer from Jersey</h3>
