@@ -9,11 +9,11 @@ A computer science undergrad at Cornell University.</h3>
 
 - 🌱 I’m currently learning **React and Node.js**
 
-- 👯 I’m seeking to collaborate on [an automated sql auditing solution](https://github.com/jayfeng20/Automated_SQL_Audit_Tool)
+- 👯 I’m seeking to collaborate on [an automated SQL auditing solution](https://github.com/jayfeng20/Automated_SQL_Audit_Tool)
 
 - 👨‍💻 Some of my projects are available at [https://github.com/jayfeng20](https://github.com/jayfeng20)
 
-- 💬 Ask me about **Python <--> Java <--> SQL**
+- 💬 Ask me about **Python, Java and SQL**
 
 - 📫 How to reach me **jonathanfeng2001@gmail.com**
 
