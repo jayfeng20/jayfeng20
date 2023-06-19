@@ -5,7 +5,6 @@ A computer science undergrad at Cornell University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayfeng20&label=Profile%20views&color=0e75b6&style=flat" alt="jayfeng20" /> </p>
 
-- 🔭 I’m currently working on one of STERIS' client portals.
 - 🌱 I’m currently learning **React and Node.js**
 
 - 👯 I’m seeking to collaborate on [an automated SQL auditing solution](https://github.com/jayfeng20/Automated_SQL_Audit_Tool)
