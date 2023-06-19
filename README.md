@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jonathan (Yushen) Feng</h1>
-<h3 align="center">A passionate backend developer and data engineer from Jersey</h3>
+<h3 align="center">A passionate backend developer and data engineer from Jersey. A computer science undergrad from Cornell University. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayfeng20&label=Profile%20views&color=0e75b6&style=flat" alt="jayfeng20" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://github.com/jayfeng20](https://github.com/jayfeng20)
 
-- 💬 Ask me about **Python <--> Java <--> SQL**
+- 💬 Ask me about **Python, Java and SQL**
 
 - 📫 How to reach me **jonathanfeng2001@gmail.com**
 
