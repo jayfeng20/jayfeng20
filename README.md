@@ -5,17 +5,15 @@ A computer science undergrad at Cornell University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayfeng20&label=Profile%20views&color=0e75b6&style=flat" alt="jayfeng20" /> </p>
 
-- 🌱 I’m currently learning **React and Node.js**
+- 🌱 I’m interested in **software engineering** with a focus on **data platforms, DBSM, and ML**
 
-- 👯 I’m seeking to collaborate on [an automated SQL auditing solution](https://github.com/jayfeng20/Automated_SQL_Audit_Tool)
+- 👨‍💻 A small portion of my projects are available at [https://github.com/jayfeng20](https://github.com/jayfeng20)
 
-- 👨‍💻 Some of my projects are available at [https://github.com/jayfeng20](https://github.com/jayfeng20)
-
-- 💬 Ask me about **Python, Java and SQL**
+- 💬 Ask me about **Python, Java, SQL, ML, DBMS**
 
 - 📫 How to reach me **jonathanfeng2001@gmail.com**
 
-- ⚡ Fun fact **I love wearing bluelight glasses with orange lens. They relieve eye strain while adding a vintage touch to the world.**
+- ⚡ Fun fact **I love wearing blue-light glasses with orange lens. They relieve eye strain while adding a vintage touch to the world.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
