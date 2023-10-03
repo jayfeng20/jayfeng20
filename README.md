@@ -5,13 +5,13 @@ A computer science undergrad at Cornell University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayfeng20&label=Profile%20views&color=0e75b6&style=flat" alt="jayfeng20" /> </p>
 
-- 🌱 I’m interested in **software engineering** with a focus on **data platforms, DBSM, and ML**
+- 🌱 I’m interested in **data software engineering** with a focus on **data platforms, cloud infrastructure, and ML**
 
 - 👨‍💻 A small portion of my projects are available at [https://github.com/jayfeng20](https://github.com/jayfeng20)
 
-- 💬 Ask me about **Python, Java, SQL, ML, DBMS**
+- 💬 Ask me about **Data infrastructure, workflow management, the integration of ML into data pipelines**
 
-- 📫 How to reach me **jonathanfeng2001@gmail.com**
+- 📫 How to reach me **yf294@cornell.edu**
 
 - ⚡ Fun fact **I love wearing blue-light glasses with orange lens. They relieve eye strain while adding a vintage touch to the world.**
 
