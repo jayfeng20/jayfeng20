@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jonathan (Yushen) Feng</h1>
-<h3 align="center">A passionate Full Stack developer and Data Engineer from Jersey. <br>
+<h3 align="center">A passionate Backend developer and Software Data Engineer from Jersey. <br>
 A computer science undergrad at Cornell University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayfeng20&label=Profile%20views&color=0e75b6&style=flat" alt="jayfeng20" /> </p>
