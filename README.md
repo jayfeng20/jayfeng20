@@ -5,9 +5,9 @@ A computer science undergrad at Cornell University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayfeng20&label=Profile%20views&color=0e75b6&style=flat" alt="jayfeng20" /> </p>
 
-- 🌱 I’m interested in **data software engineering** with a focus on **data platforms** and **data intensive applications**
+- 🌱 I’m interested in **data software engineering** with a focus on **data platforms**
 
-- 💬 Ask me about **Airflow**, **Flink**, **Spark**
+- 💬 Ask me about **data-intensive applications**
 
 - 📫 How to reach me **jonathanfeng2001@gmail.com**
 
@@ -18,7 +18,53 @@ A computer science undergrad at Cornell University.</h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left" style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <a href="https://databricks.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: black;">
+    <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" width="40" height="40"/>
+    <span style="margin-left: 5px;">Databricks</span>
+  </a>
+  <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: black;">
+    <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="Snowflake" width="40" height="40"/>
+    <span style="margin-left: 5px;">Snowflake</span>
+  </a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: black;">
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40"/>
+    <span style="margin-left: 5px;">Apache Spark</span>
+  </a>
+  <a href="https://flink.apache.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: black;">
+    <img src="https://flink.apache.org/img/flink-header-logo.svg" alt="Apache Flink" width="50" height="60"/>
+    <span style="margin-left: 5px;">Apache Flink</span>
+  </a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: black;">
+    <img src="https://banner2.cleanpng.com/20190619/oyo/kisspng-apache-airflow-workflow-orchestration-directed-acy-ampquotamsterda-5d0ade8e557994.2185587715609934223501.jpg" alt="Apache Airflow" width="55" height="40"/>
+    <span style="margin-left: 5px;">Apache Airflow</span>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: black;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <span style="margin-left: 5px;">Python</span>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: black;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    <span style="margin-left: 5px;">Java</span>
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: black;">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
+    <span style="margin-left: 5px;">Kotlin</span>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: black;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
+    <span style="margin-left: 5px;">SQL</span>
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: black;">
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
+    <span style="margin-left: 5px;">Terraform</span>
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer" style="display: flex; align-items: center; text-decoration: none; color: black;">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+    <span style="margin-left: 5px;">Kubernetes</span>
+  </a>
+</p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayfeng20&show_icons=true&locale=en&layout=compact" alt="jayfeng20" /></p>
 
