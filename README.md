@@ -13,7 +13,6 @@ A computer science undergrad at Cornell University.</h3>
 
 - ⚡ Fun fact **Passionate squash player and videogame explorer**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
