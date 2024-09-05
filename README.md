@@ -11,7 +11,7 @@ A computer science undergrad at Cornell University.</h3>
 
 - 📫 How to reach me **jonathanfeng2001@gmail.com**
 
-- ⚡ Fun fact **Passionate squash player and videogame explorer**
+- ⚡ Fun fact **squash player**
 
 <p align="left">
 </p>
@@ -65,7 +65,7 @@ A computer science undergrad at Cornell University.</h3>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg?username=jayfeng20">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?username=jayfeng20">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?username=jayfeng20">
 </picture>
