@@ -9,7 +9,7 @@ A computer science undergrad at Cornell University.</h3>
 
 - 💬 Ask me about **data-intensive applications**
 
-- 🤟🏼 Favorite languages: **Scala** for backend, **Python** for ML
+- 🤟🏼 Favorite languages: **Scala** and **Python** for backend, **Python** for ML
 
 - ❤️ Other languages: **Java**, **Kotlin**
 
