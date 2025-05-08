@@ -7,15 +7,15 @@ A computer science undergrad at Cornell University.</h3>
 
 - 🌱 I’m interested in **data software engineering** with a focus on **data platforms**
 
-- 💬 Ask me about **data-intensive applications**
+- 💬 Ask me about **data-intensive applications**, **optimization of Apache Spark services**
 
-- 🤟🏼 Favorite languages: **Scala** and **Python** for backend, **Python** for ML
+- 🤟🏼 Favorite languages: **Scala** and **Python**
 
 - ❤️ Other languages: **Java**, **Kotlin**
 
 - 📫 How to reach me **jonathanfeng2001@gmail.com**
 
-- ⚡ Fun fact **squash player**
+- ⚡ Fun fact: I'm a **squash player**
 
 <p align="left">
 </p>
