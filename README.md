@@ -1,17 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Jonathan Feng</h1>
-<h3 align="center">A passionate Backend developer and Software Data Engineer from Jersey. <br>
-A computer science undergrad at Cornell University.</h3>
+<h3 align="center">An engineer wiht a focus on building performant, distributed data infrastructure for ML systems. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayfeng20&label=Profile%20views&color=0e75b6&style=flat" alt="jayfeng20" /> </p>
 
-- 🌱 I’m interested in **data software engineering** with a focus on **data platforms**
+- 🌱 I’m interested in **Functional Programming**
 
-- 💬 Ask me about **data-intensive applications**, **optimization of Apache Spark services**
+- 💬 Ask me about **data-intensive applications**, **data infrastructure for ML systems**
 
-- 🤟🏼 Favorite languages: **Scala** and **Python**
-
-- ❤️ Other languages: **Java**, **Kotlin**
+- 🤟🏼 Proficient Languages: **Rust** and **Python**
 
 - 📫 How to reach me **jonathanfeng2001@gmail.com**
 
