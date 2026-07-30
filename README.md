@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">An data infra/ML infra engineer. </h3>
+<h3 align="center">A data infra/ML infra engineer. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayfeng20&label=Profile%20views&color=0e75b6&style=flat" alt="jayfeng20" /> </p>
 
