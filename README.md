@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **jonathanfeng2001@gmail.com**
 
-- ⚡ Fun fact: I'm a **squash player**
-
 <p align="left">
 </p>
 
